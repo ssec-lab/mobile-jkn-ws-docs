@@ -42,7 +42,7 @@ spesifikasi [sistem antrean Mobile JKN](https://docs.google.com/spreadsheets/d/1
 }
 ```
 
-### Mengambil Nomor Antrean
+### Mengambil Nomor Antrian
 
 - URL: `/lines`
 
@@ -86,7 +86,7 @@ spesifikasi [sistem antrean Mobile JKN](https://docs.google.com/spreadsheets/d/1
 }
 ```
 
-### Mengambil Rekam Antrean
+### Mengambil Rekap Antrian
 
 - URL: `/recap`
 
