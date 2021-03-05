@@ -9,8 +9,9 @@ JKN-KIS. Aplikasi ini lengkap memuat informasi seputar Program JKN-KIS, salah sa
 ## API Specs
 
 Aplikasi ini menyediakan beberapa _endpoint_ sesuai
-spesifikasi [sistem antrean Mobile JKN](https://docs.google.com/spreadsheets/d/1AL8bvvrPXRerKI8gT-o60UugcVwXCER-PjqKmQeLpKo)
-. Url dasar aplikasi ini adalah `http://jkn.ssec.co.id`.
+spesifikasi [sistem antrean Mobile JKN](https://docs.google.com/spreadsheets/d/1AL8bvvrPXRerKI8gT-o60UugcVwXCER-PjqKmQeLpKo).
+
+### Base URL: `http://jkn.ssec.co.id`
 
 ### Mengambil Token Autentikasi
 
